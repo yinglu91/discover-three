@@ -1,0 +1,25 @@
+{
+  "name": "discoverthreejs-com-ch-1-2a-code-organization",
+  "version": "1.1.0",
+  "description": "Code organization example from Ch 1.2 of Discover three.js",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/looeee/discoverthree.com-examples.git"
+  },
+  "keywords": [],
+  "author": "Lewy Blue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/looeee/discoverthree.com-examples/issues"
+  },
+  "homepage": "https://discoverthreejs.com",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  }
+}
